@@ -1,0 +1,32 @@
+.container{
+	width: 500px;
+	height: 200px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #999;
+}
+
+.buttonClick{
+	width: 30px;
+	height: 30px;
+	margin: 30px 5px 30px;
+	cursor: pointer;
+}
+
+.inputsNumber{
+   display: flex;
+   justify-content: center;
+   height: 25px;
+}
+.input{
+	padding:8px;
+	margin-left:10px;
+
+}
+.number{
+	display:inline-block;
+	margin: 5px 65px ;
+	text-transform: uppercase;
+}
+
+	
